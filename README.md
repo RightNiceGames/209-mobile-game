@@ -34,8 +34,18 @@ Group Deliverables:
   - List the Actions to take in the next sprint
 
 Individual Deliverables:
-- Post Mortem 500+ words
-- Daily Journal 20+ words per day
+- Post Mortem, at least 500 words, Recommended: 1000
+  - Introduction
+  - Successes
+  - Challenges
+  - Reflections
+  - Conclusions
+- Daily Journal, at least 20 words per day. Recommended: 50-100
+  - Track your Work Hours
+  - Write an Overview of your Work
+    - Tasks you worked on, Meetings you attended
+  - Mention some Highlights / Accomplishments
+    - This will be useful for your portfolio later on!
 - Attendance of 50%
 
 ### Excellent
@@ -43,8 +53,12 @@ Group Deliverables:
 - Advanced Milestone Achieved
 
 Individual Deliverables:
-- Post Mortem 1000+ words
-- Daily Journal+ words per day
+- Post Mortem, at least 1000 words
+  - Thorough Reflections and Learnings
+  - Meaningful Contributions Documented 
+- Daily Journal, avg. of 50+ words per day
+  - Reflect on Your Work
+    - Learnings, Challenges, Solutions
 
 ## Grouping
 The groups for this project will be determined by your Teacher. Changes to the groupings can be made under certain circumstances. But the goal of this project is to promote exchange with new team mates and provide rewarding challenges.
