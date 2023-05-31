@@ -51,6 +51,7 @@ Individual Deliverables:
 ### Excellent
 Group Deliverables:
 - Advanced Milestone Achieved
+  - Points of the Advanced Milestone can be renegotiated and swapped with points from the Update Milestone
 
 Individual Deliverables:
 - Post Mortem, at least 1000 words
