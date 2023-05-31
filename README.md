@@ -127,6 +127,7 @@ These statements should be TRUE as a result of your work on the update milestone
 |2|User Can Play Against Others|Your user can find a gameplay mode where they directly challenge other players either synchronous or asynchronous or through a leaderboard.|
 |3|User Can Invite Social Contacts|Your user can invite others from their social network such as Facebook to play the game.|
 |4|User Can Upgrade Through Fusion|Your player can find a feature where they can combine same or similar items into more powerful versions.|
+|5|User Can Store Data in Backend|Your player can find a feature that allows them to back-up their data online instead of on their device.|
 
 ## Components
 
