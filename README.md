@@ -1,4 +1,4 @@
-# 214 Mobile Game
+# 209 Mobile Game
 
 ## Premise
 In this project you will work on multiple collectible mobile games. You will implement monetization solutions, design and balance an economy as well as gameplay.
