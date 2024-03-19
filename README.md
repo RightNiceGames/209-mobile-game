@@ -9,7 +9,6 @@ As such, the general metagame loop will be provided, as well as the general fram
 Right out of the playbook for collectible card games we'll have
 - Draft/Summoning mechanic
 - Gacha Collectible Mechanic
-- Fusion Upgrade Mechanic 
 - Tiered Currency Mechanic
 - Rewarded Ads
 - In-App Purchases
