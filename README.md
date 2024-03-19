@@ -28,8 +28,7 @@ Group Deliverables:
 - Description of the project in `README.md`
 - Screenshots, Video in `README.md`
 - Group Contract
-- Attendance Tracker (maintained by Lead)
-- Weekly Sprint Review Documentation
+- Weekly Sprint Retro Documentation
   - List the Problems that were analyzed
   - List the Actions to take in the next sprint
 
@@ -40,13 +39,6 @@ Individual Deliverables:
   - Challenges
   - Reflections
   - Conclusions
-- Daily Journal, at least 20 words per day. Recommended: 50-100
-  - Track your Work Hours
-  - Write an Overview of your Work
-    - Tasks you worked on, Meetings you attended
-  - Mention some Highlights / Accomplishments
-    - This will be useful for your portfolio later on!
-- Attendance of 50%
 
 ### Excellent
 Group Deliverables:
@@ -57,14 +49,21 @@ Individual Deliverables:
 - Post Mortem, at least 1000 words
   - Thorough Reflections and Learnings
   - Meaningful Contributions Documented 
-- Daily Journal, avg. of 50+ words per day
-  - Reflect on Your Work
-    - Learnings, Challenges, Solutions
 
 ## Grouping
-The groups for this project will be determined by your Teacher. Changes to the groupings can be made under certain circumstances. But the goal of this project is to promote exchange with new team mates and provide rewarding challenges.
+Group sizes are flexible for this project. The goal of this project is to promote exchange with new team mates and provide rewarding challenges.
 
 The roles of each group are not fixed, though. And each group may rely on other groups' contributions. It will be up to you to determine your group's strengths and decide, what components (see below) your team will take on.
+
+### Many Small Teams, Individual Projects
+One great option is to work in many smaller teams. This will result in lesser management overhead and higher flexibility in the planning. However, time and resources are very limited and you'll have to implement many features just to have them done and won't have a lot of opportunity to polish, iterate and specialize.
+
+### One large Project, Multiple Department Teams
+Another option is to collaborate in one big project with specialized departments such as
+- Backend/Integrations
+- Core/Gameplay
+- User Interface
+- Metagame
 
 ## Challenges
 The general goal for this project is to release a game on the `Google Play Store`, so you'll have to not only deliver the software, but also jump through all the hoops that come with releasing a product to a store such as app-icons, privacy policies, terms of use, etc. 
@@ -74,7 +73,7 @@ You will need to implement the various systems and assets such as:
 - Integrate Rewarded Ads
 - Implement Metagame Screens & Mechanics
 - Implement Gameplay Scenes & Mechanics
-- Set up shop deployment pipeline
+- Build and Deploy on Google Play
 - Integrate Analytics Solution & Hooks
 
 ## Teacher's Role
@@ -116,7 +115,6 @@ These statements should be TRUE as a result of your work on the advanced milesto
 |1|User Can Buy Premium Currency|User can find an in-app shop where they can purchase premium currency.|
 |2|User Can Buy Premium Gacha|Your player can find a premium gacha/draft/summon feature and receive randomized items from it, it should contain better items or better chances for better items than the soft currency version.|
 |3|User Can Earn Login Bonus|Your player receives rewards for playing the game based on a scheme incentivizing recurrent activity.|
-|4|User Can Sell Items For Soft Currency|Your player can find a feature where they can convert some of their items to some soft currency.|
 
 
 ## Update Milestone
@@ -129,6 +127,7 @@ These statements should be TRUE as a result of your work on the update milestone
 |3|User Can Invite Social Contacts|Your user can invite others from their social network such as Facebook to play the game.|
 |4|User Can Upgrade Through Fusion|Your player can find a feature where they can combine same or similar items into more powerful versions.|
 |5|User Can Store Data in Backend|Your player can find a feature that allows them to back-up their data online instead of on their device.|
+|6|User Can Sell Items For Soft Currency|Your player can find a feature where they can convert some of their items to some soft currency.|
 
 ## Components
 
